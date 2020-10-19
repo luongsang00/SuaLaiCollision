@@ -1,0 +1,25 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (DoAnGame.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Brick.cpp
+  debug.cpp
+  Game.cpp
+E:\Man_1.1\DoAnGame\Game.cpp(60,39): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+E:\Man_1.1\DoAnGame\Game.cpp(60,21): warning C4244: 'argument': conversion from 'double' to 'FLOAT', possible loss of data
+E:\Man_1.1\DoAnGame\Game.cpp(259,26): warning C4305: '=': truncation from '__int64' to 'float'
+E:\Man_1.1\DoAnGame\Game.cpp(260,24): warning C4305: '=': truncation from '__int64' to 'float'
+E:\Man_1.1\DoAnGame\Game.cpp(270,26): warning C4305: '=': truncation from '__int64' to 'float'
+E:\Man_1.1\DoAnGame\Game.cpp(271,24): warning C4305: '=': truncation from '__int64' to 'float'
+  GameObject.cpp
+  Goomba.cpp
+  main.cpp
+E:\Man_1.1\DoAnGame\main.cpp(329,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Man_1.1\DoAnGame\main.cpp(339,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Man_1.1\DoAnGame\main.cpp(356,20): warning C4018: '<': signed/unsigned mismatch
+E:\Man_1.1\DoAnGame\main.cpp(361,20): warning C4018: '<': signed/unsigned mismatch
+E:\Man_1.1\DoAnGame\main.cpp(393,21): warning C4018: '<': signed/unsigned mismatch
+  Mario.cpp
+  Nen.cpp
+  Rua.cpp
+  Sprites.cpp
+  Textures.cpp
+  Generating Code...
+  DoAnGame.vcxproj -> E:\Man_1.1\Debug\SuaLaiCollision.exe
